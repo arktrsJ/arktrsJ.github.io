@@ -99,12 +99,11 @@
 <div class="wrapper">
     <h2 id="Gallery">Gallery</h2>
 　　<h3>◇Original◇<h3>
-
+</div>
   <table class="back">
   <tr>
-　　　　　<a href="https://raw.githubusercontent.com/arktrsJ/arktrsJ.github.io/master/2.png" data-lightbox="pic" data-title="夏"><img src="https://raw.githubusercontent.com/arktrsJ/arktrsJ.github.io/master/2.png"class="samune" alt="夏"></a>
-</div>
-　　　　　<a href="https://raw.githubusercontent.com/arktrsJ/arktrsJ.github.io/master/5.png" data-lightbox="pic" data-title="星空"><img src="https://raw.githubusercontent.com/arktrsJ/arktrsJ.github.io/master/5.png"class="samune" alt="星空"></a>
+　　　　　<a href="2.png" data-lightbox="pic" data-title="夏"><img src="https://2.png"class="samune" alt="夏"></a>
+　　　　　<a href="5.png" data-lightbox="pic" data-title="星空"><img src="5.png"class="samune" alt="星空"></a>
   </tr>
   </table>
 <br>
